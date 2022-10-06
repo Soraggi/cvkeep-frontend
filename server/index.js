@@ -55,5 +55,5 @@ app.get('*', (req, res) => {
 // -----------------------------------------
 
 app.listen(config.port, () => {
-	console.log(`Server is running on port ${ config.port }`);
+	console.log(`Server is running on port ${ config.port } with ${ config.forceHttps }`);
 });
