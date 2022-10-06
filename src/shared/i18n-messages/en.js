@@ -121,7 +121,7 @@ export default {
     showing: 'Showing',
     searching: 'Searching',
     loadMore: 'Load more',
-    findACv: 'Find a CV',
+    findACv: 'Find a Doctor',
     nameRoleOrLocation: 'Name, role, locale, etc',
     noSearchQuery: 'There is no search query',
     showingResultsFor: 'Showing results for',

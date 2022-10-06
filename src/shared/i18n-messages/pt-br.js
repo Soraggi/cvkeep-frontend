@@ -120,7 +120,7 @@ export default {
     showing: 'Mostrando',
     searching: 'Buscando',
     loadMore: 'Carregar mais',
-    findACv: 'Encontre um CV',
+    findACv: 'Encontre um Doutor',
     nameRoleOrLocation: 'Nome, cargo, localidade, etc',
     noSearchQuery: 'Não há nenhum critério de busca a ser executado',
     showingResultsFor: 'Mostrando resultados para',
