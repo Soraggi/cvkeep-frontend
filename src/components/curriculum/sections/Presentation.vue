@@ -63,7 +63,7 @@
 			messages: {
 				'pt-br': {
 					presentation: 'Apresentação',
-					presentationHelpText: 'Fale sobre você de forma objetiva e concisa. Conte-nos quem é a pessoa que está por trás do seu currículo. Você pode contar sua história, o que você faz ou gostaria de fazer, suas aspirações e metas, por exemplo. Também pode ser um bom espaço para demonstrar de forma breve quem é você fora do trabalho. Escrever uma apresentação é especialmente importante se você tem pouca ou nenhuma experiência.',
+					presentationHelpText: 'Fale sobre você de forma objetiva e concisa. Conte-nos quem é a pessoa que está por trás do seu perfil. Você pode contar sua história, o que você faz ou gostaria de fazer, suas aspirações e metas, por exemplo. Também pode ser um bom espaço para demonstrar de forma breve quem é você fora do trabalho. Escrever uma apresentação é especialmente importante se você tem pouca ou nenhuma experiência.',
 					placeholder: 'Escreva uma apresentação. Você pode contar a sua história, suas conquistas e suas metas, por exemplo. Mantenha a objetividade e mostre sua personalidade.'
 				},
 

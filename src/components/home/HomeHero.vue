@@ -22,15 +22,15 @@ export default {
 	i18n: {
 		messages: {
 			'pt-br': {
-				goToCv: 'Ir para o meu CV',
+				goToCv: 'Ir para o meu perfil',
 				startNow: 'Comece Agora',	
-				cvAsAnOnlineProfile: 'Seu currículo como um perfil online',
+				cvAsAnOnlineProfile: 'Seus dados como um perfil online',
 			},
 
 			'en': {
-				goToCv: 'Go to my CV',
+				goToCv: 'Go to my profile',
 				startNow: 'Start now',	
-				cvAsAnOnlineProfile: 'Your resumé as an online profile',
+				cvAsAnOnlineProfile: 'Your data as an online profile',
 			},
 
 			'fr': {

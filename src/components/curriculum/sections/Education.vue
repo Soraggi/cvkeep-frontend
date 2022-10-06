@@ -37,7 +37,7 @@
 			messages: {
 				'pt-br': {
 					'education': 'Educação',
-					'educationHelpText': 'Informe aqui sua tragetória educacional formal. Faculdade, cursos, pós graduação, etc. Procure manter uma ordem cronológica para simplificar a leitura e entendimento do seu currículo.'
+					'educationHelpText': 'Informe aqui sua tragetória educacional formal. Faculdade, cursos, pós graduação, etc. Procure manter uma ordem cronológica para simplificar a leitura e entendimento do seu perfil.'
 				},
 
 				'en': {

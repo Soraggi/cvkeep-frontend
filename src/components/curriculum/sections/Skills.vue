@@ -36,7 +36,7 @@
 			messages: {
 				'pt-br': {
 					skills: 'Competências',
-					skillsHelpText: 'Adicione aqui suas competências de maior destaque. Não há uma formula ou regra de quais tipos de competencia utilizar, isso dependerá de como e para que você está organizando seu currículo. Você pode adicionar competências tecnicas, sociais (soft skills), características notáveis de sua personalidade (como resiliencia em momentos críticos), etc. Procure não fazer uma lista extensa, atenha-se ao que for mais notável.'
+					skillsHelpText: 'Adicione aqui suas competências de maior destaque. Não há uma formula ou regra de quais tipos de competencia utilizar, isso dependerá de como e para que você está organizando seu perfil. Você pode adicionar competências tecnicas, sociais (soft skills), características notáveis de sua personalidade (como resiliencia em momentos críticos), etc. Procure não fazer uma lista extensa, atenha-se ao que for mais notável.'
 				},
 
 				'en': {

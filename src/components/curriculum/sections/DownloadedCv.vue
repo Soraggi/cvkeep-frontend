@@ -15,7 +15,7 @@
     i18n: {
       messages: {
         'pt-br': {
-          info: `Este currículo está disponível online no endereço <strong>${Utils.downloadedCvUrl()}</strong>`
+          info: `Este perfil está disponível online no endereço <strong>${Utils.downloadedCvUrl()}</strong>`
         },
 
         'en': {  

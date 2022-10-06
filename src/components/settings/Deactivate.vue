@@ -135,7 +135,7 @@
 					areYouSureToDeactivate: 'Tem certeza que deseja desativar esta conta?',
 					youNeedPassword: 'Você precisa criar uma senha para desbloquear esta ação',
 					deactivateWarning: 'Esta ação poderá ser desfeita caso um login seja efetuado em até 30 dias. Ao desativar a sua conta seu nome de usuário ficará disponível para uso.',
-					deactivateMyAccountHelp: 'Aqui você pode desativar a sua conta. Note que ao desativá-la o seu nome de usuário ficará disponível para que outras pessoas o utilizem. Você pode reativar sua conta num prazo de 30 dias, após isso ela será deletada de nossa base de dados. Uma vez iniciado o processo de exclusão, seu currículo será imediatamente removido da internet. Caso você não possua uma senha, será necessário criá-la antes de prosseguir.',
+					deactivateMyAccountHelp: 'Aqui você pode desativar a sua conta. Note que ao desativá-la o seu nome de usuário ficará disponível para que outras pessoas o utilizem. Você pode reativar sua conta num prazo de 30 dias, após isso ela será deletada de nossa base de dados. Uma vez iniciado o processo de exclusão, seu perfil será imediatamente removido da internet. Caso você não possua uma senha, será necessário criá-la antes de prosseguir.',
 				},
 
 				'en': {

@@ -130,14 +130,14 @@
       messages: {
         'pt-br': {
           save: 'Salvar',
-          privateCv: 'Currículo privado',
+          privateCv: 'perfil privado',
           showPass: 'Mostrar senha',
           hidePass: 'Ocultar senha',
           removePass: 'Remover senha',
           addNewPassword: 'Adicionar nova senha',
-          protectCvWithPassword: 'Proteger meu currículo com senha',
+          protectCvWithPassword: 'Proteger meu perfil com senha',
           configurationsUpdated: 'Suas configurações foram atualizadas',
-          privateCvHelp: 'Pode ser que você queira restringir o acesso ao seu currículo, para tanto você pode habilitar esta opção e criar diversas senhas de acesso ao seu CV, fazendo com que ele possa ser visualizado apenas por quem possuir uma dessas senhas. Caso esta opção esteja habilitada sem nenhuma senha definida, seu CV estará visível apenas para você. Seu CV não aparecerá em resultados de busca também. Você pode revogar qualquer senha de acesso ou mesmo esta opção quantas vezes quiser a qualquer momento.',
+          privateCvHelp: 'Pode ser que você queira restringir o acesso ao seu perfil, para tanto você pode habilitar esta opção e criar diversas senhas de acesso ao seu CV, fazendo com que ele possa ser visualizado apenas por quem possuir uma dessas senhas. Caso esta opção esteja habilitada sem nenhuma senha definida, seu CV estará visível apenas para você. Seu CV não aparecerá em resultados de busca também. Você pode revogar qualquer senha de acesso ou mesmo esta opção quantas vezes quiser a qualquer momento.',
         },
 
         'en': {

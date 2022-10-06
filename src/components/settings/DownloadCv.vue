@@ -96,9 +96,9 @@
 		i18n: {
 			messages: {
 				'pt-br': {
-          title: 'Baixar meu currículo',
+          title: 'Baixar meu perfil',
           preparingDownload: 'Preparando arquivo...',
-          downloadCvHelp: 'Aqui você pode baixar seu currículo como PDF, PNG ou JSON. Sempre que possível evite enviar o seu currículo dessa forma uma vez que você necessitará enviar novas versões toda vez que atualizá-lo.'
+          downloadCvHelp: 'Aqui você pode baixar seu perfil como PDF, PNG ou JSON. Sempre que possível evite enviar o seu perfil dessa forma uma vez que você necessitará enviar novas versões toda vez que atualizá-lo.'
 				},
 
 				'en': {

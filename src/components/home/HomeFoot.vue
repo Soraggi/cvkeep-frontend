@@ -26,7 +26,7 @@
 					goToCv: 'Ir para o meu CV',
 					startNow: 'Comece Agora',
 					aGoodCv: 'Um bom',
-					curriculum: 'Currículo',
+					curriculum: 'perfil',
 					increasesYourChances: 'aumenta suas chances de conseguir um bom emprego.',
 				},
 

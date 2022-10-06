@@ -36,7 +36,7 @@
 			messages: {
 				'pt-br': {
 					'aditionalLinks': 'Links adicionais',
-					'addLinksHelpText': 'Adicione aqui links para suas redes sociais, sites pessoais, blogs ou qualquer outro tipo de serviço ou informação relacionado a você e que seja relevante para o seu currículo.'
+					'addLinksHelpText': 'Adicione aqui links para suas redes sociais, sites pessoais, blogs ou qualquer outro tipo de serviço ou informação relacionado a você e que seja relevante para o seu perfil.'
 				},
 
 				'en': {

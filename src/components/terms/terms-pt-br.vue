@@ -91,7 +91,7 @@
     <h5>LINKS PARA PÁGINAS DE TERCEIROS</h5>
 
     <p>
-      Links do {{host}}: O site {{host}} e os currículos do usuário podem conter links para outros sites. Não temos nenhum controle ou responsabilidade 
+      Links do {{host}}: O site {{host}} e os perfils do usuário podem conter links para outros sites. Não temos nenhum controle ou responsabilidade 
       sobre qualquer coisa postada em sites de terceiros, nem endossamos ou patrocinamos esses sites, mesmo aqueles afiliados a nós.
     </p>
 
